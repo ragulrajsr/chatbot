@@ -1,4 +1,4 @@
-# FOBOH News Aggregator & Chatbot – Submission by Ragul Raj
+# FOBOH News Chatbot – Submission by Ragul Raj
 
 Hi FOBOH Team 
 
@@ -17,4 +17,3 @@ The app fetches news articles from 9 News and Sky News, removes duplicates, cate
 - Includes a **local chatbot** powered by a small transformer model and FAISS search
 - Runs through a clean, interactive **Streamlit interface**
 
----# chatbot
